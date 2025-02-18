@@ -1,2 +1,6 @@
-# 1-Rhendy-Japelhendal-Saragih-Sumbayak
-Repository ini dibuat untuk menyimpan dan mengelola berbagai materi, proyek.
+# Repository Pribadi
+
+## Repository ini dibuat untuk menyimpan materi, proyek, dan file terkait yang akan digunakan di masa depan. Bisa digunakan untuk:
+* Menyimpan kode, dataset, dan dokumentasi pribadi.
+* Mengkloning dan mengelola materi lain yang relevan.
+* Eksplorasi dan eksperimen dalam pengembangan proyek.
